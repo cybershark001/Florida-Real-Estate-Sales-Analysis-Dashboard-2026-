@@ -48,4 +48,7 @@ Power BI Desktop (Visualization & DAX)
 
 Power Query (ETL & Data Cleaning)
 
+# AbdulWahab (Data Analyst)
+# LinkedIn: www.linkedin.com/in/abdulwahabkhaan
+
 # Kaggle (Data Source)
